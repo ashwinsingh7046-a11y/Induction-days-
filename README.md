@@ -44,3 +44,9 @@ For sharing their inspiring journeys and encouraging students to grow with value
 5 AUGUST,2025
 # A Journing of inspiration and learning 
 * On this remarkable day, our college timetable unfolded into a blend of learning, interaction, and surprice moments that kept the energy alive. Here's how the day went.
+# 9:30 AM TO 10:30 AM : (P2P) Lecture in TCC Seminar Hall 
+* The began with an engaging Peer-to-peer (P2P) session conducted by our talented college seniors in the TCC Seminar Hall They introduced us to the basics of C++ Programming, explaning concepts in a simple yet powerful manner. It was not just a lecture - it was a hands-on experince that sparked curiosity and encouraged us to explore the world of coding.
+# 10:30 AM TO 11:30 AM : BEEE Lecture (BASIC ELECTRICAL AND ELECTRONICS ENGINEERING) 
+* Our next stop was the world of circuits and currents.
+* The Lecture was delivered by Prof. Simranjeet Kaur from the ECC Department, who guided us through the fundamentals of electrical and electronic engineering.
+* The session was a perfect mix of theory and real-life applications, making the subjects feel alive and practical. 
