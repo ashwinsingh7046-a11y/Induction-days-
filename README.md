@@ -49,4 +49,8 @@ For sharing their inspiring journeys and encouraging students to grow with value
 # 10:30 AM TO 11:30 AM : BEEE Lecture (BASIC ELECTRICAL AND ELECTRONICS ENGINEERING) 
 * Our next stop was the world of circuits and currents.
 * The Lecture was delivered by Prof. Simranjeet Kaur from the ECC Department, who guided us through the fundamentals of electrical and electronic engineering.
-* The session was a perfect mix of theory and real-life applications, making the subjects feel alive and practical. 
+* The session was a perfect mix of theory and real-life applications, making the subjects feel alive and practical.
+# 11:30 AM TO 12:30 PM : A TWIST IN THE PLAN 
+* The schedule originally promised a mathematics lecture, but to our surprise, it was replaced by a physics lecture.
+* The professor's approach was refreshing, turning the unexpected change into an opportunity to dive into scientific concepts from a different angle.
+# The day was a beautiful remainder that learing is not just about sticking to a timetable- it's about embracing very opportunity,expected or unexpected, and making the most of it.
