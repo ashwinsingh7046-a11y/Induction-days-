@@ -78,4 +78,7 @@ For sharing their inspiring journeys and encouraging students to grow with value
 * My Induction program at GNDEC Ludhiana was a rollercoaster of learing, interaction, inspiration, and occasional boredom. From motivational talks to campus explorations - these days laid the foundation for my B.tech journey ahead.
 # B.tech Induction - Day 7 
 7 August, 2025 
-Welcome 
+Welcome to the detailed log of the B.tech Orientation Program at GURU NANAK DEV ENGENEERING COLLAGE (GNDEC), LUDHIANA. The day was filled with informative sessions, academics insights, and motivational interactions.
+# 9:30 AM TO 10:30 AM 
+* VENUE AUDITORIUM
+# Speaker: Dr. Amrit Kamra ( Incharge - DMC )
