@@ -82,3 +82,13 @@ Welcome to the detailed log of the B.tech Orientation Program at GURU NANAK DEV 
 # 9:30 AM TO 10:30 AM 
 * VENUE AUDITORIUM
 # Speaker: Dr. Amrit Kamra ( Incharge - DMC )
+The Day began with an enlightening session by Dr. Amrit Kamra, the incharge of the Department Monitoring committee (DMC). The lecture took place in the college auditorium. He guided the students about the importance of academic discipline, the role of DMC in maintaining standards, and how it supports students throughout their course duration.
+# 10:30 AM TO 11:30 AM 
+Venue auditorium 
+# Speaker: Dr. Parminder Singh (Dean- Student welfare)
+* Following the first session, Dr. Parminder Singh took over the stage. He provided a comprehensive overview of various student welfare facilities available on campus. He also introduced the students to a wide range of clubs, societies l, and extracurricular activities that help foster personal growth, leadership, and social engagement during college life.
+# 11:30 AM TO 12:30 PM 
+Venue auditorium 
+Speaker: Dr. Randhir Singh 
+Topic: Conduct of Examination 
+* The next lecture was conducted by Dr. Randhir Singh, where he explained the complete examination process followed by GNDEC. The session covered critical rules, regulations,internal assessments, grading system, and attendance policies. Students were advised to follow proper contact and integrity during examinations. 
