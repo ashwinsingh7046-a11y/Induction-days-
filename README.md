@@ -54,3 +54,20 @@ For sharing their inspiring journeys and encouraging students to grow with value
 * The schedule originally promised a mathematics lecture, but to our surprise, it was replaced by a physics lecture.
 * The professor's approach was refreshing, turning the unexpected change into an opportunity to dive into scientific concepts from a different angle.
 # The day was a beautiful remainder that learing is not just about sticking to a timetable- it's about embracing very opportunity,expected or unexpected, and making the most of it.
+# Day 6
+6 August, 2025 
+# 9:30 AM TO 10:30 AM : Mathematics Lecture - mechanical engg. seminar hall
+* We were introduced to Desmos & GeoGebra-powerful tools for mathematics visualization. The session also induced life lessons beyond academics.
+# 10:30 AM TO 11:30 AM - BEEE Lecture 
+* Prof. Simranjeet kaur revisited electrical fundamentals, continuing the knowledge from earlier sessions.
+# 11:30 AM TO 12:30 PM - Break & Campus Exploration.
+* A relaxing moment to recharge and explore the beatuiful GNDEC Campus.
+# 12:30 PM TO 2:00 PM - Dr. Arvind Dhingra 
+* Focused on enterpreneurship, innovation, and technical skills.\
+# 2:30 PM TO 3:30 PM - Mr. Jaswir Singh Sekhon
+* A deep dive into STEM education and problem-solving.
+# 3:30 PM TO 4:30 PM - Dr. Lakhvir Singh Khana
+* Important Institutional details- though admittedly, a bit on the boring side.
+# Final Thoughts 
+* My Induction program at GNDEC Ludhiana was a rollercoaster of learing, interaction, inspiration, and occasional boredom. From motivational talks to campus explorations - these days laid the foundation for my B.tech journey ahead.
+# 
