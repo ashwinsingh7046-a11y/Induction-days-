@@ -98,4 +98,9 @@ Break time
 # 1:30 PM TO 2:30 PM 
 Venue workshop seminar hall 
 Session: P2P ( peer-to- peer)
-* An engaging Peer-to-peer (P2P) session was held in the workshop seminar hall, where senior students interacted with the newcomers. They shared their personal experiences, provided tips for balancing academics with extracurriculars, and encouraged students to be proactive and confident. 
+* An engaging Peer-to-peer (P2P) session was held in the workshop seminar hall, where senior students interacted with the newcomers. They shared their personal experiences, provided tips for balancing academics with extracurriculars, and encouraged students to be proactive and confident.
+# 2:30 PM TO 3:30 PM
+* Lecture by : Prof. karan Bhalla (Chemistry)
+* The final session of the day was a chemistry lecture was informative and helped students revise key concepts while also getting familliar with the teaching methodology adopted in the first year.
+# Conclusion 
+* Overall, Day 7 of the orientation was structured, informative, and beneficialfor all the new students . Each session contributed to understanding the academic culture, support systems, and opportunities offered at GNDEC.
