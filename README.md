@@ -92,3 +92,10 @@ Venue auditorium
 Speaker: Dr. Randhir Singh 
 Topic: Conduct of Examination 
 * The next lecture was conducted by Dr. Randhir Singh, where he explained the complete examination process followed by GNDEC. The session covered critical rules, regulations,internal assessments, grading system, and attendance policies. Students were advised to follow proper contact and integrity during examinations. 
+# 12:30 PM TO 1:30 PM 
+Break time 
+* Students were given a break to relax, have lunch, and refresh themselves before resuming with afternoon sessions.
+# 1:30 PM TO 2:30 PM 
+Venue workshop seminar hall 
+Session: P2P ( peer-to- peer)
+* An engaging Peer-to-peer (P2P) session was held in the workshop seminar hall, where senior students interacted with the newcomers. They shared their personal experiences, provided tips for balancing academics with extracurriculars, and encouraged students to be proactive and confident. 
